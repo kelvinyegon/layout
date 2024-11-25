@@ -1,51 +1,26 @@
-# Sunnyside Layout
+# Sunny Agency - Responsive Website
 
-A responsive webpage design for a creative agency called **Sunnyside**. This project is built with **HTML** and **CSS** and focuses on providing a modern and visually appealing structure.
+This project is a responsive website for the fictional creative agency "SunnySide." The website showcases the agency's services, client testimonials, and visual gallery while maintaining an appealing and modern design.
 
 ## Features
 
-### 1. Header
-- Displays the agency's name.
-- Navigation bar includes links to:
-  - About
-  - Services
-  - Projects
-  - A call-to-action "Contact" button.
-
-### 2. Hero Section
-- Includes a bold title: **"WE ARE CREATIVES"**.
-
-### 3. Content Grid
-- A grid layout featuring:
-  - Text sections highlighting services like brand transformation and audience engagement.
-  - Image sections with a focus on aesthetics and brand identity.
-
-### 4. Testimonials
-- A section featuring client testimonials with quotes and attributions.
-
-### 5. Footer
-- Displays the agency's name.
-- Navigation links and social media links (Facebook, Instagram, Twitter).
-
----
-
-## Folder Structure
-
-
----
+- **Responsive Design**: Optimized for all screen sizes, including mobile, tablet, and desktop.
+- **Dynamic Navigation**: Includes smooth navigation links to different sections of the page.
+- **Service Highlights**: Displays core services like brand transformation, standout strategies, graphic design, and photography.
+- **Client Testimonials**: Showcases customer reviews in an organized layout.
+- **Gallery**: Features a grid-based image gallery for visual engagement.
+- **Social Media Integration**: Includes clickable icons for social platforms.
 
 ## Technologies Used
 
-- **HTML5**: For structuring the content.
-- **CSS3**: For styling and layout design.
+- **HTML5**: Semantic structure and layout.
+- **CSS3**: Styling and responsive design.
 
----
+## File Structure
+
 
 ## How to Use
 
-1. Clone the repository:
+1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/kelvinyegon/creative.com.git
-   
-
-
+   git clone https://github.com/kelvinyegon/sunny_agency
